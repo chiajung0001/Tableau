@@ -3,7 +3,9 @@ Tableau notes
 
 
 
-1.使用地區、銷售量和年份，可以用年份來篩選銷售額 
+1. 地區與銷售量練習
+
+使用地區、銷售量和年份，可以用年份來篩選銷售額 
 
 [點擊至我的Tableau Public查看](https://public.tableau.com/profile/chia.jung.chang#!/vizhome/8838/1?publish=yes)
 

@@ -31,7 +31,7 @@ Tableau notes
 
 [點擊至我的Tableau Public查看](https://public.tableau.com/profile/chia.jung.chang#!/vizhome/8002/sheet3)
 
-![Github](https://github.com/chiajung0001/Tableau/blob/master/pic/carrot.png)
+![Github](https://github.com/chiajung0001/Tableau/blob/master/pic/tomato.png)
 
 
 

@@ -23,4 +23,15 @@ Tableau notes
 
 ![Github](https://github.com/chiajung0001/Tableau/blob/master/pic/carrot.png)
 
+<br /> 
+
+<br /> 
+
+2. 2016/7~2019/7 農會番茄價格(加上組合圖)
+
+[點擊至我的Tableau Public查看](https://public.tableau.com/profile/chia.jung.chang#!/vizhome/8002/sheet3)
+
+![Github](https://github.com/chiajung0001/Tableau/blob/master/pic/carrot.png)
+
+
 
